@@ -1,0 +1,11 @@
+.button-list {
+  margin: 10px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  color: black;
+}
